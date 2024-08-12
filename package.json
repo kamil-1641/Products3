@@ -1,0 +1,5 @@
+{
+  "name": "Genuine_Code_Processor",
+  "description": "Run code in a virtual environment to limit dangerous undocumented behaviour and receive full automatically generated raports.",
+  "version": "1.3.1"
+}
